@@ -21,7 +21,7 @@ u-blox makes some incredible GNSS receivers covering everything from low-cost, h
 
 This library can be installed via the Arduino Library manager. Search for **SparkFun u-blox GNSS**.
 
-## Automatic support for correction services like PointPerfect (u-blox), RTK2go, Emlid Caster and Skylark (Swift Navigation)
+## Automatic support for correction services like PointPerfect (u-blox), RTK2go, Polaris (Point One Navigation), Emlid Caster and Skylark (Swift Navigation)
 
 u-blox's PointPerfect GNSS augmentation service uses the secure MQTT protocol to download SPARTN format correction data, providing "3-6 cm accuracy and convergence within seconds". Please see the new [PointPerfect Client example](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/tree/main/examples/ZED-F9P/Example18_PointPerfectClient) for more details.
 
